@@ -1,0 +1,390 @@
+02:10:01.729 [main] INFO  api.test.UserTests - ********* CREATING USER *********
+02:10:03.501 [main] INFO  api.test.UserTests - ********* USER IS CREATED *********
+02:10:03.503 [main] INFO  api.test.UserTests - ********* READING USER INFO *********
+02:10:04.173 [main] INFO  api.test.UserTests - ********* USER INFO IS DISPLAYED *********
+02:10:04.176 [main] INFO  api.test.UserTests - ********* UPDATING USER *********
+02:10:04.852 [main] INFO  api.test.UserTests - ********* USER IS UPDATED *********
+02:10:04.853 [main] INFO  api.test.UserTests - ********* READING USER INFO AFTER UPDATE *********
+02:10:05.537 [main] INFO  api.test.UserTests - ********* USER INFO IS DISPLAYED AFTER UPDATE *********
+02:10:05.542 [main] INFO  api.test.UserTests - ********* DELETING USER *********
+02:10:06.214 [main] INFO  api.test.UserTests - ********* USER IS DELETED *********
+02:31:29.784 [main] INFO  api.test.UserTests - ********* CREATING USER *********
+02:31:31.223 [main] INFO  api.test.UserTests - ********* USER IS CREATED *********
+02:31:31.224 [main] INFO  api.test.UserTests - ********* READING USER INFO *********
+02:31:31.902 [main] INFO  api.test.UserTests - ********* USER INFO IS DISPLAYED *********
+02:31:31.903 [main] INFO  api.test.UserTests - ********* UPDATING USER *********
+02:31:32.584 [main] INFO  api.test.UserTests - ********* USER IS UPDATED *********
+02:31:32.584 [main] INFO  api.test.UserTests - ********* READING USER INFO AFTER UPDATE *********
+02:31:33.260 [main] INFO  api.test.UserTests - ********* USER INFO IS DISPLAYED AFTER UPDATE *********
+02:31:33.263 [main] INFO  api.test.UserTests - ********* DELETING USER *********
+02:31:33.930 [main] INFO  api.test.UserTests - ********* USER IS DELETED *********
+02:39:08.350 [main] INFO  api.test.UserTests - ********* CREATING USER *********
+02:39:09.797 [main] INFO  api.test.UserTests - ********* USER IS CREATED *********
+02:39:09.799 [main] INFO  api.test.UserTests - ********* READING USER INFO *********
+02:39:10.495 [main] INFO  api.test.UserTests - ********* USER INFO IS DISPLAYED *********
+02:39:10.497 [main] INFO  api.test.UserTests - ********* UPDATING USER *********
+02:39:11.194 [main] INFO  api.test.UserTests - ********* USER IS UPDATED *********
+02:39:11.194 [main] INFO  api.test.UserTests - ********* READING USER INFO AFTER UPDATE *********
+02:39:11.875 [main] INFO  api.test.UserTests - ********* USER INFO IS DISPLAYED AFTER UPDATE *********
+02:39:11.879 [main] INFO  api.test.UserTests - ********* DELETING USER *********
+02:39:12.555 [main] INFO  api.test.UserTests - ********* USER IS DELETED *********
+02:44:26.981 [main] INFO  api.test.UserTests - ********* CREATING USER *********
+02:44:28.424 [main] INFO  api.test.UserTests - ********* USER IS CREATED *********
+02:44:28.428 [main] INFO  api.test.UserTests - ********* READING USER INFO *********
+02:44:29.114 [main] INFO  api.test.UserTests - ********* USER INFO IS DISPLAYED *********
+02:44:29.115 [main] INFO  api.test.UserTests - ********* UPDATING USER *********
+02:44:29.788 [main] INFO  api.test.UserTests - ********* USER IS UPDATED *********
+02:44:29.788 [main] INFO  api.test.UserTests - ********* READING USER INFO AFTER UPDATE *********
+02:44:30.469 [main] INFO  api.test.UserTests - ********* USER INFO IS DISPLAYED AFTER UPDATE *********
+02:44:30.470 [main] INFO  api.test.UserTests - ********* DELETING USER *********
+02:44:31.146 [main] INFO  api.test.UserTests - ********* USER IS DELETED *********
+03:01:22.446 [main] INFO  api.test.UserTests - ********* CREATING USER *********
+03:01:23.129 [main] INFO  api.test.UserTests - ********* USER IS CREATED *********
+03:01:23.131 [main] INFO  api.test.UserTests - ********* READING USER INFO *********
+03:01:23.804 [main] INFO  api.test.UserTests - ********* USER INFO IS DISPLAYED *********
+03:01:23.806 [main] INFO  api.test.UserTests - ********* UPDATING USER *********
+03:01:24.507 [main] INFO  api.test.UserTests - ********* USER IS UPDATED *********
+03:01:24.507 [main] INFO  api.test.UserTests - ********* READING USER INFO AFTER UPDATE *********
+03:01:25.179 [main] INFO  api.test.UserTests - ********* USER INFO IS DISPLAYED AFTER UPDATE *********
+03:01:25.181 [main] INFO  api.test.UserTests - ********* DELETING USER *********
+03:01:25.846 [main] INFO  api.test.UserTests - ********* USER IS DELETED *********
+03:24:32.342 [main] INFO  api.test.DataDrivenTests - ********* CREATING USER *********
+03:24:33.803 [main] INFO  api.test.DataDrivenTests - ********* USER IS CREATED *********
+03:24:33.810 [main] INFO  api.test.DataDrivenTests - ********* CREATING USER *********
+03:24:34.517 [main] INFO  api.test.DataDrivenTests - ********* USER IS CREATED *********
+03:24:34.519 [main] INFO  api.test.DataDrivenTests - ********* CREATING USER *********
+03:24:35.216 [main] INFO  api.test.DataDrivenTests - ********* USER IS CREATED *********
+03:24:35.217 [main] INFO  api.test.DataDrivenTests - ********* CREATING USER *********
+03:24:35.883 [main] INFO  api.test.DataDrivenTests - ********* USER IS CREATED *********
+03:24:35.885 [main] INFO  api.test.DataDrivenTests - ********* CREATING USER *********
+03:24:36.560 [main] INFO  api.test.DataDrivenTests - ********* USER IS CREATED *********
+03:24:36.626 [main] INFO  api.test.DataDrivenTests - ********* READING USER INFO *********
+03:24:37.307 [main] INFO  api.test.DataDrivenTests - ********* USER INFO IS DISPLAYED *********
+03:24:37.308 [main] INFO  api.test.DataDrivenTests - ********* READING USER INFO *********
+03:24:37.985 [main] INFO  api.test.DataDrivenTests - ********* USER INFO IS DISPLAYED *********
+03:24:37.987 [main] INFO  api.test.DataDrivenTests - ********* READING USER INFO *********
+03:24:38.659 [main] INFO  api.test.DataDrivenTests - ********* USER INFO IS DISPLAYED *********
+03:24:38.660 [main] INFO  api.test.DataDrivenTests - ********* READING USER INFO *********
+03:24:39.337 [main] INFO  api.test.DataDrivenTests - ********* USER INFO IS DISPLAYED *********
+03:24:39.338 [main] INFO  api.test.DataDrivenTests - ********* READING USER INFO *********
+03:24:40.013 [main] INFO  api.test.DataDrivenTests - ********* USER INFO IS DISPLAYED *********
+03:24:40.059 [main] INFO  api.test.DataDrivenTests - ********* DELETING USER *********
+03:24:40.719 [main] INFO  api.test.DataDrivenTests - ********* USER IS DELETED *********
+03:24:40.721 [main] INFO  api.test.DataDrivenTests - ********* DELETING USER *********
+03:24:41.389 [main] INFO  api.test.DataDrivenTests - ********* USER IS DELETED *********
+03:24:41.391 [main] INFO  api.test.DataDrivenTests - ********* DELETING USER *********
+03:24:42.058 [main] INFO  api.test.DataDrivenTests - ********* USER IS DELETED *********
+03:24:42.061 [main] INFO  api.test.DataDrivenTests - ********* DELETING USER *********
+03:24:42.733 [main] INFO  api.test.DataDrivenTests - ********* USER IS DELETED *********
+03:24:42.736 [main] INFO  api.test.DataDrivenTests - ********* DELETING USER *********
+03:24:43.401 [main] INFO  api.test.DataDrivenTests - ********* USER IS DELETED *********
+03:24:43.500 [main] INFO  api.test.UserTests - ********* CREATING USER *********
+03:24:44.175 [main] INFO  api.test.UserTests - ********* USER IS CREATED *********
+03:24:44.176 [main] INFO  api.test.UserTests - ********* READING USER INFO *********
+03:24:44.853 [main] INFO  api.test.UserTests - ********* USER INFO IS DISPLAYED *********
+03:24:44.855 [main] INFO  api.test.UserTests - ********* UPDATING USER *********
+03:24:45.528 [main] INFO  api.test.UserTests - ********* USER IS UPDATED *********
+03:24:45.528 [main] INFO  api.test.UserTests - ********* READING USER INFO AFTER UPDATE *********
+03:24:46.204 [main] INFO  api.test.UserTests - ********* USER INFO IS DISPLAYED AFTER UPDATE *********
+03:24:46.209 [main] INFO  api.test.UserTests - ********* DELETING USER *********
+03:24:46.875 [main] INFO  api.test.UserTests - ********* USER IS DELETED *********
+14:52:19.117 [main] INFO  api.test.UserTestsWithProperties - ********* CREATING USER *********
+14:52:20.828 [main] INFO  api.test.UserTestsWithProperties - ********* USER IS CREATED *********
+14:52:20.829 [main] INFO  api.test.UserTestsWithProperties - ********* READING USER INFO *********
+14:52:21.510 [main] INFO  api.test.UserTestsWithProperties - ********* USER INFO IS DISPLAYED *********
+14:52:21.511 [main] INFO  api.test.UserTestsWithProperties - ********* UPDATING USER *********
+14:52:22.181 [main] INFO  api.test.UserTestsWithProperties - ********* USER IS UPDATED *********
+14:52:22.181 [main] INFO  api.test.UserTestsWithProperties - ********* READING USER INFO AFTER UPDATE *********
+14:52:22.842 [main] INFO  api.test.UserTestsWithProperties - ********* USER INFO IS DISPLAYED AFTER UPDATE *********
+14:52:22.845 [main] INFO  api.test.UserTestsWithProperties - ********* DELETING USER *********
+14:52:23.506 [main] INFO  api.test.UserTestsWithProperties - ********* USER IS DELETED *********
+14:56:30.322 [main] INFO  api.test.DataDrivenTests - ********* CREATING USER *********
+14:56:31.772 [main] INFO  api.test.DataDrivenTests - ********* USER IS CREATED *********
+14:56:31.778 [main] INFO  api.test.DataDrivenTests - ********* CREATING USER *********
+14:56:32.454 [main] INFO  api.test.DataDrivenTests - ********* USER IS CREATED *********
+14:56:32.455 [main] INFO  api.test.DataDrivenTests - ********* CREATING USER *********
+14:56:33.136 [main] INFO  api.test.DataDrivenTests - ********* USER IS CREATED *********
+14:56:33.137 [main] INFO  api.test.DataDrivenTests - ********* CREATING USER *********
+14:56:33.819 [main] INFO  api.test.DataDrivenTests - ********* USER IS CREATED *********
+14:56:33.821 [main] INFO  api.test.DataDrivenTests - ********* CREATING USER *********
+14:56:34.496 [main] INFO  api.test.DataDrivenTests - ********* USER IS CREATED *********
+14:56:34.548 [main] INFO  api.test.DataDrivenTests - ********* READING USER INFO *********
+14:56:35.232 [main] INFO  api.test.DataDrivenTests - ********* USER INFO IS DISPLAYED *********
+14:56:35.234 [main] INFO  api.test.DataDrivenTests - ********* READING USER INFO *********
+14:56:35.915 [main] INFO  api.test.DataDrivenTests - ********* USER INFO IS DISPLAYED *********
+14:56:35.916 [main] INFO  api.test.DataDrivenTests - ********* READING USER INFO *********
+14:56:36.583 [main] INFO  api.test.DataDrivenTests - ********* USER INFO IS DISPLAYED *********
+14:56:36.584 [main] INFO  api.test.DataDrivenTests - ********* READING USER INFO *********
+14:56:37.248 [main] INFO  api.test.DataDrivenTests - ********* USER INFO IS DISPLAYED *********
+14:56:37.250 [main] INFO  api.test.DataDrivenTests - ********* READING USER INFO *********
+14:56:37.905 [main] INFO  api.test.DataDrivenTests - ********* USER INFO IS DISPLAYED *********
+14:56:37.939 [main] INFO  api.test.DataDrivenTests - ********* DELETING USER *********
+14:56:38.611 [main] INFO  api.test.DataDrivenTests - ********* USER IS DELETED *********
+14:56:38.612 [main] INFO  api.test.DataDrivenTests - ********* DELETING USER *********
+14:56:39.276 [main] INFO  api.test.DataDrivenTests - ********* USER IS DELETED *********
+14:56:39.277 [main] INFO  api.test.DataDrivenTests - ********* DELETING USER *********
+14:56:39.948 [main] INFO  api.test.DataDrivenTests - ********* USER IS DELETED *********
+14:56:39.948 [main] INFO  api.test.DataDrivenTests - ********* DELETING USER *********
+14:56:40.604 [main] INFO  api.test.DataDrivenTests - ********* USER IS DELETED *********
+14:56:40.607 [main] INFO  api.test.DataDrivenTests - ********* DELETING USER *********
+14:56:41.269 [main] INFO  api.test.DataDrivenTests - ********* USER IS DELETED *********
+14:56:41.366 [main] INFO  api.test.UserTests - ********* CREATING USER *********
+14:56:42.032 [main] INFO  api.test.UserTests - ********* USER IS CREATED *********
+14:56:42.033 [main] INFO  api.test.UserTests - ********* READING USER INFO *********
+14:56:42.696 [main] INFO  api.test.UserTests - ********* USER INFO IS DISPLAYED *********
+14:56:42.697 [main] INFO  api.test.UserTests - ********* UPDATING USER *********
+14:56:43.373 [main] INFO  api.test.UserTests - ********* USER IS UPDATED *********
+14:56:43.373 [main] INFO  api.test.UserTests - ********* READING USER INFO AFTER UPDATE *********
+14:56:44.034 [main] INFO  api.test.UserTests - ********* USER INFO IS DISPLAYED AFTER UPDATE *********
+14:56:44.038 [main] INFO  api.test.UserTests - ********* DELETING USER *********
+14:56:44.703 [main] INFO  api.test.UserTests - ********* USER IS DELETED *********
+14:56:44.733 [main] INFO  api.test.UserTestsWithProperties - ********* CREATING USER *********
+14:56:45.397 [main] INFO  api.test.UserTestsWithProperties - ********* USER IS CREATED *********
+14:56:45.401 [main] INFO  api.test.UserTestsWithProperties - ********* READING USER INFO *********
+14:56:46.065 [main] INFO  api.test.UserTestsWithProperties - ********* USER INFO IS DISPLAYED *********
+14:56:46.066 [main] INFO  api.test.UserTestsWithProperties - ********* UPDATING USER *********
+14:56:46.729 [main] INFO  api.test.UserTestsWithProperties - ********* USER IS UPDATED *********
+14:56:46.729 [main] INFO  api.test.UserTestsWithProperties - ********* READING USER INFO AFTER UPDATE *********
+14:56:47.393 [main] INFO  api.test.UserTestsWithProperties - ********* USER INFO IS DISPLAYED AFTER UPDATE *********
+14:56:47.396 [main] INFO  api.test.UserTestsWithProperties - ********* DELETING USER *********
+14:56:48.066 [main] INFO  api.test.UserTestsWithProperties - ********* USER IS DELETED *********
+15:23:03.272 [main] INFO  api.test.DataDrivenTests - ********* CREATING USER *********
+15:23:06.049 [main] INFO  api.test.DataDrivenTests - ********* USER IS CREATED *********
+15:23:06.051 [main] INFO  api.test.DataDrivenTests - ********* CREATING USER *********
+15:23:06.923 [main] INFO  api.test.DataDrivenTests - ********* USER IS CREATED *********
+15:23:06.924 [main] INFO  api.test.DataDrivenTests - ********* CREATING USER *********
+15:23:07.961 [main] INFO  api.test.DataDrivenTests - ********* USER IS CREATED *********
+15:23:07.963 [main] INFO  api.test.DataDrivenTests - ********* CREATING USER *********
+15:23:09.208 [main] INFO  api.test.DataDrivenTests - ********* USER IS CREATED *********
+15:23:09.210 [main] INFO  api.test.DataDrivenTests - ********* CREATING USER *********
+15:23:11.221 [main] INFO  api.test.DataDrivenTests - ********* USER IS CREATED *********
+15:23:11.273 [main] INFO  api.test.DataDrivenTests - ********* READING USER INFO *********
+15:23:12.397 [main] INFO  api.test.DataDrivenTests - ********* USER INFO IS DISPLAYED *********
+15:23:12.399 [main] INFO  api.test.DataDrivenTests - ********* READING USER INFO *********
+15:23:13.065 [main] INFO  api.test.DataDrivenTests - ********* USER INFO IS DISPLAYED *********
+15:23:13.068 [main] INFO  api.test.DataDrivenTests - ********* READING USER INFO *********
+15:23:14.098 [main] INFO  api.test.DataDrivenTests - ********* USER INFO IS DISPLAYED *********
+15:23:14.101 [main] INFO  api.test.DataDrivenTests - ********* READING USER INFO *********
+15:23:15.278 [main] INFO  api.test.DataDrivenTests - ********* USER INFO IS DISPLAYED *********
+15:23:15.280 [main] INFO  api.test.DataDrivenTests - ********* READING USER INFO *********
+15:23:16.738 [main] INFO  api.test.DataDrivenTests - ********* USER INFO IS DISPLAYED *********
+15:23:16.781 [main] INFO  api.test.DataDrivenTests - ********* DELETING USER *********
+15:23:17.787 [main] INFO  api.test.DataDrivenTests - ********* USER IS DELETED *********
+15:23:17.790 [main] INFO  api.test.DataDrivenTests - ********* DELETING USER *********
+15:23:18.597 [main] INFO  api.test.DataDrivenTests - ********* USER IS DELETED *********
+15:23:18.600 [main] INFO  api.test.DataDrivenTests - ********* DELETING USER *********
+15:23:19.757 [main] INFO  api.test.DataDrivenTests - ********* USER IS DELETED *********
+15:23:19.759 [main] INFO  api.test.DataDrivenTests - ********* DELETING USER *********
+15:23:21.533 [main] INFO  api.test.DataDrivenTests - ********* USER IS DELETED *********
+15:23:21.535 [main] INFO  api.test.DataDrivenTests - ********* DELETING USER *********
+15:23:23.154 [main] INFO  api.test.DataDrivenTests - ********* USER IS DELETED *********
+15:23:23.233 [main] INFO  api.test.UserTests - ********* CREATING USER *********
+15:23:24.031 [main] INFO  api.test.UserTests - ********* USER IS CREATED *********
+15:23:24.033 [main] INFO  api.test.UserTests - ********* READING USER INFO *********
+15:23:25.086 [main] INFO  api.test.UserTests - ********* USER INFO IS DISPLAYED *********
+15:23:25.088 [main] INFO  api.test.UserTests - ********* UPDATING USER *********
+15:23:25.750 [main] INFO  api.test.UserTests - ********* USER IS UPDATED *********
+15:23:25.750 [main] INFO  api.test.UserTests - ********* READING USER INFO AFTER UPDATE *********
+15:23:27.147 [main] INFO  api.test.UserTests - ********* USER INFO IS DISPLAYED AFTER UPDATE *********
+15:23:27.149 [main] INFO  api.test.UserTests - ********* DELETING USER *********
+15:23:28.109 [main] INFO  api.test.UserTests - ********* USER IS DELETED *********
+15:32:12.340 [main] INFO  api.test.DataDrivenTests - ********* CREATING USER *********
+15:32:13.772 [main] INFO  api.test.DataDrivenTests - ********* USER IS CREATED *********
+15:32:13.778 [main] INFO  api.test.DataDrivenTests - ********* CREATING USER *********
+15:32:14.452 [main] INFO  api.test.DataDrivenTests - ********* USER IS CREATED *********
+15:32:14.453 [main] INFO  api.test.DataDrivenTests - ********* CREATING USER *********
+15:32:15.137 [main] INFO  api.test.DataDrivenTests - ********* USER IS CREATED *********
+15:32:15.140 [main] INFO  api.test.DataDrivenTests - ********* CREATING USER *********
+15:32:15.819 [main] INFO  api.test.DataDrivenTests - ********* USER IS CREATED *********
+15:32:15.821 [main] INFO  api.test.DataDrivenTests - ********* CREATING USER *********
+15:32:16.490 [main] INFO  api.test.DataDrivenTests - ********* USER IS CREATED *********
+15:32:16.550 [main] INFO  api.test.DataDrivenTests - ********* READING USER INFO *********
+15:32:17.227 [main] INFO  api.test.DataDrivenTests - ********* USER INFO IS DISPLAYED *********
+15:32:17.228 [main] INFO  api.test.DataDrivenTests - ********* READING USER INFO *********
+15:32:17.888 [main] INFO  api.test.DataDrivenTests - ********* USER INFO IS DISPLAYED *********
+15:32:17.889 [main] INFO  api.test.DataDrivenTests - ********* READING USER INFO *********
+15:32:18.555 [main] INFO  api.test.DataDrivenTests - ********* USER INFO IS DISPLAYED *********
+15:32:18.556 [main] INFO  api.test.DataDrivenTests - ********* READING USER INFO *********
+15:32:19.235 [main] INFO  api.test.DataDrivenTests - ********* USER INFO IS DISPLAYED *********
+15:32:19.237 [main] INFO  api.test.DataDrivenTests - ********* READING USER INFO *********
+15:32:19.904 [main] INFO  api.test.DataDrivenTests - ********* USER INFO IS DISPLAYED *********
+15:32:19.949 [main] INFO  api.test.DataDrivenTests - ********* DELETING USER *********
+15:32:20.617 [main] INFO  api.test.DataDrivenTests - ********* USER IS DELETED *********
+15:32:20.619 [main] INFO  api.test.DataDrivenTests - ********* DELETING USER *********
+15:32:21.294 [main] INFO  api.test.DataDrivenTests - ********* USER IS DELETED *********
+15:32:21.296 [main] INFO  api.test.DataDrivenTests - ********* DELETING USER *********
+15:32:22.006 [main] INFO  api.test.DataDrivenTests - ********* USER IS DELETED *********
+15:32:22.008 [main] INFO  api.test.DataDrivenTests - ********* DELETING USER *********
+15:32:22.674 [main] INFO  api.test.DataDrivenTests - ********* USER IS DELETED *********
+15:32:22.676 [main] INFO  api.test.DataDrivenTests - ********* DELETING USER *********
+15:32:23.356 [main] INFO  api.test.DataDrivenTests - ********* USER IS DELETED *********
+15:32:23.443 [main] INFO  api.test.UserTests - ********* CREATING USER *********
+15:32:24.110 [main] INFO  api.test.UserTests - ********* USER IS CREATED *********
+15:32:24.111 [main] INFO  api.test.UserTests - ********* READING USER INFO *********
+15:32:24.781 [main] INFO  api.test.UserTests - ********* USER INFO IS DISPLAYED *********
+15:32:24.783 [main] INFO  api.test.UserTests - ********* UPDATING USER *********
+15:32:25.456 [main] INFO  api.test.UserTests - ********* USER IS UPDATED *********
+15:32:25.456 [main] INFO  api.test.UserTests - ********* READING USER INFO AFTER UPDATE *********
+15:32:26.120 [main] INFO  api.test.UserTests - ********* USER INFO IS DISPLAYED AFTER UPDATE *********
+15:32:26.121 [main] INFO  api.test.UserTests - ********* DELETING USER *********
+15:32:26.794 [main] INFO  api.test.UserTests - ********* USER IS DELETED *********
+15:32:26.820 [main] INFO  api.test.UserTestsWithProperties - ********* CREATING USER *********
+15:32:27.493 [main] INFO  api.test.UserTestsWithProperties - ********* USER IS CREATED *********
+15:32:27.496 [main] INFO  api.test.UserTestsWithProperties - ********* READING USER INFO *********
+15:32:28.167 [main] INFO  api.test.UserTestsWithProperties - ********* USER INFO IS DISPLAYED *********
+15:32:28.169 [main] INFO  api.test.UserTestsWithProperties - ********* UPDATING USER *********
+15:32:28.861 [main] INFO  api.test.UserTestsWithProperties - ********* USER IS UPDATED *********
+15:32:28.861 [main] INFO  api.test.UserTestsWithProperties - ********* READING USER INFO AFTER UPDATE *********
+15:32:29.514 [main] INFO  api.test.UserTestsWithProperties - ********* USER INFO IS DISPLAYED AFTER UPDATE *********
+15:32:29.517 [main] INFO  api.test.UserTestsWithProperties - ********* DELETING USER *********
+15:32:30.169 [main] INFO  api.test.UserTestsWithProperties - ********* USER IS DELETED *********
+15:55:23.680 [main] INFO  api.test.DataDrivenTests - ********* CREATING USER *********
+15:55:25.159 [main] INFO  api.test.DataDrivenTests - ********* USER IS CREATED *********
+15:55:25.163 [main] INFO  api.test.DataDrivenTests - ********* CREATING USER *********
+15:55:25.837 [main] INFO  api.test.DataDrivenTests - ********* USER IS CREATED *********
+15:55:25.838 [main] INFO  api.test.DataDrivenTests - ********* CREATING USER *********
+15:55:26.514 [main] INFO  api.test.DataDrivenTests - ********* USER IS CREATED *********
+15:55:26.518 [main] INFO  api.test.DataDrivenTests - ********* CREATING USER *********
+15:55:27.200 [main] INFO  api.test.DataDrivenTests - ********* USER IS CREATED *********
+15:55:27.202 [main] INFO  api.test.DataDrivenTests - ********* CREATING USER *********
+15:55:27.871 [main] INFO  api.test.DataDrivenTests - ********* USER IS CREATED *********
+15:55:27.920 [main] INFO  api.test.DataDrivenTests - ********* READING USER INFO *********
+15:55:28.610 [main] INFO  api.test.DataDrivenTests - ********* USER INFO IS DISPLAYED *********
+15:55:28.613 [main] INFO  api.test.DataDrivenTests - ********* READING USER INFO *********
+15:55:29.301 [main] INFO  api.test.DataDrivenTests - ********* USER INFO IS DISPLAYED *********
+15:55:29.302 [main] INFO  api.test.DataDrivenTests - ********* READING USER INFO *********
+15:55:29.968 [main] INFO  api.test.DataDrivenTests - ********* USER INFO IS DISPLAYED *********
+15:55:29.970 [main] INFO  api.test.DataDrivenTests - ********* READING USER INFO *********
+15:55:30.638 [main] INFO  api.test.DataDrivenTests - ********* USER INFO IS DISPLAYED *********
+15:55:30.641 [main] INFO  api.test.DataDrivenTests - ********* READING USER INFO *********
+15:55:31.318 [main] INFO  api.test.DataDrivenTests - ********* USER INFO IS DISPLAYED *********
+15:55:31.357 [main] INFO  api.test.DataDrivenTests - ********* DELETING USER *********
+15:55:32.020 [main] INFO  api.test.DataDrivenTests - ********* USER IS DELETED *********
+15:55:32.022 [main] INFO  api.test.DataDrivenTests - ********* DELETING USER *********
+15:55:32.684 [main] INFO  api.test.DataDrivenTests - ********* USER IS DELETED *********
+15:55:32.686 [main] INFO  api.test.DataDrivenTests - ********* DELETING USER *********
+15:55:33.352 [main] INFO  api.test.DataDrivenTests - ********* USER IS DELETED *********
+15:55:33.354 [main] INFO  api.test.DataDrivenTests - ********* DELETING USER *********
+15:55:34.016 [main] INFO  api.test.DataDrivenTests - ********* USER IS DELETED *********
+15:55:34.019 [main] INFO  api.test.DataDrivenTests - ********* DELETING USER *********
+15:55:34.682 [main] INFO  api.test.DataDrivenTests - ********* USER IS DELETED *********
+15:55:34.776 [main] INFO  api.test.UserTests - ********* CREATING USER *********
+15:55:35.455 [main] INFO  api.test.UserTests - ********* USER IS CREATED *********
+15:55:35.457 [main] INFO  api.test.UserTests - ********* READING USER INFO *********
+15:55:36.112 [main] INFO  api.test.UserTests - ********* USER INFO IS DISPLAYED *********
+15:55:36.113 [main] INFO  api.test.UserTests - ********* UPDATING USER *********
+15:55:36.783 [main] INFO  api.test.UserTests - ********* USER IS UPDATED *********
+15:55:36.784 [main] INFO  api.test.UserTests - ********* READING USER INFO AFTER UPDATE *********
+15:55:37.460 [main] INFO  api.test.UserTests - ********* USER INFO IS DISPLAYED AFTER UPDATE *********
+15:55:37.463 [main] INFO  api.test.UserTests - ********* DELETING USER *********
+15:55:38.118 [main] INFO  api.test.UserTests - ********* USER IS DELETED *********
+15:55:38.140 [main] INFO  api.test.UserTestsWithProperties - ********* CREATING USER *********
+15:55:38.794 [main] INFO  api.test.UserTestsWithProperties - ********* USER IS CREATED *********
+15:55:38.798 [main] INFO  api.test.UserTestsWithProperties - ********* READING USER INFO *********
+15:55:39.456 [main] INFO  api.test.UserTestsWithProperties - ********* USER INFO IS DISPLAYED *********
+15:55:39.460 [main] INFO  api.test.UserTestsWithProperties - ********* UPDATING USER *********
+15:55:40.130 [main] INFO  api.test.UserTestsWithProperties - ********* USER IS UPDATED *********
+15:55:40.130 [main] INFO  api.test.UserTestsWithProperties - ********* READING USER INFO AFTER UPDATE *********
+15:55:40.790 [main] INFO  api.test.UserTestsWithProperties - ********* USER INFO IS DISPLAYED AFTER UPDATE *********
+15:55:40.791 [main] INFO  api.test.UserTestsWithProperties - ********* DELETING USER *********
+15:55:41.453 [main] INFO  api.test.UserTestsWithProperties - ********* USER IS DELETED *********
+18:40:54.847 [main] INFO  api.test.DataDrivenTests - ********* CREATING USER *********
+18:40:56.390 [main] INFO  api.test.DataDrivenTests - ********* USER IS CREATED *********
+18:40:56.395 [main] INFO  api.test.DataDrivenTests - ********* CREATING USER *********
+18:40:57.048 [main] INFO  api.test.DataDrivenTests - ********* USER IS CREATED *********
+18:40:57.049 [main] INFO  api.test.DataDrivenTests - ********* CREATING USER *********
+18:40:57.703 [main] INFO  api.test.DataDrivenTests - ********* USER IS CREATED *********
+18:40:57.707 [main] INFO  api.test.DataDrivenTests - ********* CREATING USER *********
+18:40:58.359 [main] INFO  api.test.DataDrivenTests - ********* USER IS CREATED *********
+18:40:58.361 [main] INFO  api.test.DataDrivenTests - ********* CREATING USER *********
+18:40:59.017 [main] INFO  api.test.DataDrivenTests - ********* USER IS CREATED *********
+18:40:59.070 [main] INFO  api.test.DataDrivenTests - ********* READING USER INFO *********
+18:40:59.742 [main] INFO  api.test.DataDrivenTests - ********* USER INFO IS DISPLAYED *********
+18:40:59.744 [main] INFO  api.test.DataDrivenTests - ********* READING USER INFO *********
+18:41:00.397 [main] INFO  api.test.DataDrivenTests - ********* USER INFO IS DISPLAYED *********
+18:41:00.398 [main] INFO  api.test.DataDrivenTests - ********* READING USER INFO *********
+18:41:01.039 [main] INFO  api.test.DataDrivenTests - ********* USER INFO IS DISPLAYED *********
+18:41:01.040 [main] INFO  api.test.DataDrivenTests - ********* READING USER INFO *********
+18:41:01.701 [main] INFO  api.test.DataDrivenTests - ********* USER INFO IS DISPLAYED *********
+18:41:01.703 [main] INFO  api.test.DataDrivenTests - ********* READING USER INFO *********
+18:41:02.352 [main] INFO  api.test.DataDrivenTests - ********* USER INFO IS DISPLAYED *********
+18:41:02.391 [main] INFO  api.test.DataDrivenTests - ********* DELETING USER *********
+18:41:03.053 [main] INFO  api.test.DataDrivenTests - ********* USER IS DELETED *********
+18:41:03.056 [main] INFO  api.test.DataDrivenTests - ********* DELETING USER *********
+18:41:03.706 [main] INFO  api.test.DataDrivenTests - ********* USER IS DELETED *********
+18:41:03.708 [main] INFO  api.test.DataDrivenTests - ********* DELETING USER *********
+18:41:04.358 [main] INFO  api.test.DataDrivenTests - ********* USER IS DELETED *********
+18:41:04.360 [main] INFO  api.test.DataDrivenTests - ********* DELETING USER *********
+18:41:05.012 [main] INFO  api.test.DataDrivenTests - ********* USER IS DELETED *********
+18:41:05.015 [main] INFO  api.test.DataDrivenTests - ********* DELETING USER *********
+18:41:05.672 [main] INFO  api.test.DataDrivenTests - ********* USER IS DELETED *********
+18:41:05.759 [main] INFO  api.test.UserTests - ********* CREATING USER *********
+18:41:06.415 [main] INFO  api.test.UserTests - ********* USER IS CREATED *********
+18:41:06.416 [main] INFO  api.test.UserTests - ********* READING USER INFO *********
+18:41:07.070 [main] INFO  api.test.UserTests - ********* USER INFO IS DISPLAYED *********
+18:41:07.070 [main] INFO  api.test.UserTests - ********* UPDATING USER *********
+18:41:07.728 [main] INFO  api.test.UserTests - ********* USER IS UPDATED *********
+18:41:07.729 [main] INFO  api.test.UserTests - ********* READING USER INFO AFTER UPDATE *********
+18:41:08.376 [main] INFO  api.test.UserTests - ********* USER INFO IS DISPLAYED AFTER UPDATE *********
+18:41:08.378 [main] INFO  api.test.UserTests - ********* DELETING USER *********
+18:41:09.016 [main] INFO  api.test.UserTests - ********* USER IS DELETED *********
+18:41:09.045 [main] INFO  api.test.UserTestsWithProperties - ********* CREATING USER *********
+18:41:09.688 [main] INFO  api.test.UserTestsWithProperties - ********* USER IS CREATED *********
+18:41:09.691 [main] INFO  api.test.UserTestsWithProperties - ********* READING USER INFO *********
+18:41:10.338 [main] INFO  api.test.UserTestsWithProperties - ********* USER INFO IS DISPLAYED *********
+18:41:10.340 [main] INFO  api.test.UserTestsWithProperties - ********* UPDATING USER *********
+18:41:10.994 [main] INFO  api.test.UserTestsWithProperties - ********* USER IS UPDATED *********
+18:41:10.995 [main] INFO  api.test.UserTestsWithProperties - ********* READING USER INFO AFTER UPDATE *********
+18:41:11.635 [main] INFO  api.test.UserTestsWithProperties - ********* USER INFO IS DISPLAYED AFTER UPDATE *********
+18:41:11.637 [main] INFO  api.test.UserTestsWithProperties - ********* DELETING USER *********
+18:41:12.288 [main] INFO  api.test.UserTestsWithProperties - ********* USER IS DELETED *********
+19:04:22.653 [main] INFO  api.test.DataDrivenTests - ********* CREATING USER *********
+19:04:24.080 [main] INFO  api.test.DataDrivenTests - ********* USER IS CREATED *********
+19:04:24.086 [main] INFO  api.test.DataDrivenTests - ********* CREATING USER *********
+19:04:24.736 [main] INFO  api.test.DataDrivenTests - ********* USER IS CREATED *********
+19:04:24.738 [main] INFO  api.test.DataDrivenTests - ********* CREATING USER *********
+19:04:25.385 [main] INFO  api.test.DataDrivenTests - ********* USER IS CREATED *********
+19:04:25.389 [main] INFO  api.test.DataDrivenTests - ********* CREATING USER *********
+19:04:26.042 [main] INFO  api.test.DataDrivenTests - ********* USER IS CREATED *********
+19:04:26.043 [main] INFO  api.test.DataDrivenTests - ********* CREATING USER *********
+19:04:26.699 [main] INFO  api.test.DataDrivenTests - ********* USER IS CREATED *********
+19:04:26.760 [main] INFO  api.test.DataDrivenTests - ********* READING USER INFO *********
+19:04:27.422 [main] INFO  api.test.DataDrivenTests - ********* USER INFO IS DISPLAYED *********
+19:04:27.423 [main] INFO  api.test.DataDrivenTests - ********* READING USER INFO *********
+19:04:28.071 [main] INFO  api.test.DataDrivenTests - ********* USER INFO IS DISPLAYED *********
+19:04:28.073 [main] INFO  api.test.DataDrivenTests - ********* READING USER INFO *********
+19:04:28.718 [main] INFO  api.test.DataDrivenTests - ********* USER INFO IS DISPLAYED *********
+19:04:28.719 [main] INFO  api.test.DataDrivenTests - ********* READING USER INFO *********
+19:04:29.356 [main] INFO  api.test.DataDrivenTests - ********* USER INFO IS DISPLAYED *********
+19:04:29.358 [main] INFO  api.test.DataDrivenTests - ********* READING USER INFO *********
+19:04:30.004 [main] INFO  api.test.DataDrivenTests - ********* USER INFO IS DISPLAYED *********
+19:04:30.046 [main] INFO  api.test.DataDrivenTests - ********* DELETING USER *********
+19:04:30.689 [main] INFO  api.test.DataDrivenTests - ********* USER IS DELETED *********
+19:04:30.691 [main] INFO  api.test.DataDrivenTests - ********* DELETING USER *********
+19:04:31.336 [main] INFO  api.test.DataDrivenTests - ********* USER IS DELETED *********
+19:04:31.338 [main] INFO  api.test.DataDrivenTests - ********* DELETING USER *********
+19:04:31.988 [main] INFO  api.test.DataDrivenTests - ********* USER IS DELETED *********
+19:04:31.990 [main] INFO  api.test.DataDrivenTests - ********* DELETING USER *********
+19:04:32.637 [main] INFO  api.test.DataDrivenTests - ********* USER IS DELETED *********
+19:04:32.639 [main] INFO  api.test.DataDrivenTests - ********* DELETING USER *********
+19:04:33.284 [main] INFO  api.test.DataDrivenTests - ********* USER IS DELETED *********
+19:04:33.370 [main] INFO  api.test.UserTests - ********* CREATING USER *********
+19:04:34.027 [main] INFO  api.test.UserTests - ********* USER IS CREATED *********
+19:04:34.028 [main] INFO  api.test.UserTests - ********* READING USER INFO *********
+19:04:34.666 [main] INFO  api.test.UserTests - ********* USER INFO IS DISPLAYED *********
+19:04:34.669 [main] INFO  api.test.UserTests - ********* UPDATING USER *********
+19:04:35.310 [main] INFO  api.test.UserTests - ********* USER IS UPDATED *********
+19:04:35.310 [main] INFO  api.test.UserTests - ********* READING USER INFO AFTER UPDATE *********
+19:04:35.959 [main] INFO  api.test.UserTests - ********* USER INFO IS DISPLAYED AFTER UPDATE *********
+19:04:35.961 [main] INFO  api.test.UserTests - ********* DELETING USER *********
+19:04:36.613 [main] INFO  api.test.UserTests - ********* USER IS DELETED *********
+19:04:36.636 [main] INFO  api.test.UserTestsWithProperties - ********* CREATING USER *********
+19:04:37.270 [main] INFO  api.test.UserTestsWithProperties - ********* USER IS CREATED *********
+19:04:37.271 [main] INFO  api.test.UserTestsWithProperties - ********* READING USER INFO *********
+19:04:37.920 [main] INFO  api.test.UserTestsWithProperties - ********* USER INFO IS DISPLAYED *********
+19:04:37.923 [main] INFO  api.test.UserTestsWithProperties - ********* UPDATING USER *********
+19:04:38.577 [main] INFO  api.test.UserTestsWithProperties - ********* USER IS UPDATED *********
+19:04:38.577 [main] INFO  api.test.UserTestsWithProperties - ********* READING USER INFO AFTER UPDATE *********
+19:04:39.216 [main] INFO  api.test.UserTestsWithProperties - ********* USER INFO IS DISPLAYED AFTER UPDATE *********
+19:04:39.219 [main] INFO  api.test.UserTestsWithProperties - ********* DELETING USER *********
+19:04:39.865 [main] INFO  api.test.UserTestsWithProperties - ********* USER IS DELETED *********
